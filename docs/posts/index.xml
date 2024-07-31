@@ -4,11 +4,6 @@
     <title>Posts on LinzyWorld</title>
     <link>http://localhost:1313/linzyworld/posts/</link>
     <description>Recent content in Posts on LinzyWorld</description>
-    <image>
-      <title>LinzyWorld</title>
-      <url>http://localhost:1313/linzyworld/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/linzyworld/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- 0.130.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jul 2024 18:00:13 -0500</lastBuildDate>
