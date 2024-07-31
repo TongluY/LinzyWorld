@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LinzyWorld</title>
-    <link>http://localhost:1313/linzyworld/</link>
+    <link>https://tongluy.github.io/linzyworld/</link>
     <description>Recent content on LinzyWorld</description>
     <generator>Hugo -- 0.130.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jul 2024 18:00:13 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/linzyworld/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tongluy.github.io/linzyworld/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://localhost:1313/linzyworld/posts/first/</link>
+      <link>https://tongluy.github.io/linzyworld/posts/first/</link>
       <pubDate>Wed, 31 Jul 2024 18:00:13 -0500</pubDate>
-      <guid>http://localhost:1313/linzyworld/posts/first/</guid>
+      <guid>https://tongluy.github.io/linzyworld/posts/first/</guid>
       <description>hi</description>
     </item>
   </channel>
