@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/linzyworld/posts/first/</loc>
+    <loc>https://tongluy.github.io/linzyworld/</loc>
+    <lastmod>2024-09-05T18:12:54+08:00</lastmod>
+  </url><url>
+    <loc>https://tongluy.github.io/linzyworld/posts/paddlingview/</loc>
+    <lastmod>2024-09-05T18:12:54+08:00</lastmod>
+  </url><url>
+    <loc>https://tongluy.github.io/linzyworld/posts/</loc>
+    <lastmod>2024-09-05T18:12:54+08:00</lastmod>
+  </url><url>
+    <loc>https://tongluy.github.io/linzyworld/posts/yogajourney/</loc>
+    <lastmod>2024-09-05T18:10:38+08:00</lastmod>
+  </url><url>
+    <loc>https://tongluy.github.io/linzyworld/posts/iwantacat/</loc>
     <lastmod>2024-07-31T18:00:13-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/linzyworld/</loc>
-    <lastmod>2024-07-31T18:00:13-05:00</lastmod>
+    <loc>https://tongluy.github.io/linzyworld/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/linzyworld/posts/</loc>
-    <lastmod>2024-07-31T18:00:13-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/linzyworld/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/linzyworld/tags/</loc>
+    <loc>https://tongluy.github.io/linzyworld/tags/</loc>
   </url>
 </urlset>

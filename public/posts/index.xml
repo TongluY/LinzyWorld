@@ -2,23 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on LinzyWorld</title>
-    <link>http://localhost:1313/linzyworld/posts/</link>
+    <link>https://tongluy.github.io/linzyworld/posts/</link>
     <description>Recent content in Posts on LinzyWorld</description>
-    <image>
-      <title>LinzyWorld</title>
-      <url>http://localhost:1313/linzyworld/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/linzyworld/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- 0.130.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jul 2024 18:00:13 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/linzyworld/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Sep 2024 18:12:54 +0800</lastBuildDate>
+    <atom:link href="https://tongluy.github.io/linzyworld/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>http://localhost:1313/linzyworld/posts/first/</link>
+      <title>Paddle Life</title>
+      <link>https://tongluy.github.io/linzyworld/posts/paddlingview/</link>
+      <pubDate>Thu, 05 Sep 2024 18:12:54 +0800</pubDate>
+      <guid>https://tongluy.github.io/linzyworld/posts/paddlingview/</guid>
+      <description>with my paddleboard, i travel around where i live.</description>
+    </item>
+    <item>
+      <title>Flowing Through Ashtanga</title>
+      <link>https://tongluy.github.io/linzyworld/posts/yogajourney/</link>
+      <pubDate>Thu, 05 Sep 2024 18:10:38 +0800</pubDate>
+      <guid>https://tongluy.github.io/linzyworld/posts/yogajourney/</guid>
+      <description>Ashtanga</description>
+    </item>
+    <item>
+      <title>I want a cat!!!</title>
+      <link>https://tongluy.github.io/linzyworld/posts/iwantacat/</link>
       <pubDate>Wed, 31 Jul 2024 18:00:13 -0500</pubDate>
-      <guid>http://localhost:1313/linzyworld/posts/first/</guid>
-      <description>hi</description>
+      <guid>https://tongluy.github.io/linzyworld/posts/iwantacat/</guid>
+      <description>hi 🐱🐱🐱
+I want a cat, not just to hold, But for the mysteries it unfolds. A quiet soul, beyond the chase, A silent mirror of time and space.
+I want a cat to teach me still, To move through life with quiet will. It asks for nothing, yet has all, Balanced between the great and small.
+In its gaze, I see what&amp;rsquo;s true— A life complete with nothing new. I want a cat, to sit and be, A soft reminder of simply me.</description>
     </item>
   </channel>
 </rss>
