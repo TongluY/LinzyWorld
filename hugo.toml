@@ -2,3 +2,18 @@ baseURL = "https://tongluy.github.io/linzyworld/"
 title = "LinzyWorld"
 paginate = 5
 theme = "PaperMod"
+[module]
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
